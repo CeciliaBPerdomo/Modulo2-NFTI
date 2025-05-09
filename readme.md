@@ -11,8 +11,8 @@
 - **Web de ejemplo:** [https://nft-clase-flex.vercel.app/#](#)
 
 ## 🌐 Enlaces de Entrega
-- **Repositorio en GitHub:** [https://github.com/CeciliaBPerdomo/NFTI](#)
-- **Deployment en Vercel:** [https://nfti-taupe.vercel.app/](#)
+- **Repositorio en GitHub:** [https://github.com/CeciliaBPerdomo/Modulo2-NFTI](#)
+- **Deployment en Vercel:** [https://modulo2-nfti.vercel.app/](#)
 
 ¡Gracias por visitar este proyecto!
 

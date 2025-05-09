@@ -1,10 +1,7 @@
-<p align="center">
-    <img src="./assets/img/myAvatar.png" width="25%" style="border-radius: 50%;">
-</p>
 
-<p align="center">
-    By <b>Cecilia Perdomo<b>
-</p>
+<p align="center"><b>Nucba NFT 🎓</b></p>
+<p align="center"><img src="myAvatar.png" width="25%" style="border-radius: 50%;"></p>
+<p align="center">By 💛<b>Cecilia Perdomo<b> 💛</p>
 
 
 ## 🌐 Web original
